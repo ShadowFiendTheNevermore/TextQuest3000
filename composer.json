@@ -1,0 +1,8 @@
+{
+	"autoload": {
+		"psr-4": {
+			"TextQuest\\": "core/"
+		},
+		"files": ["core/helpers/functions.php"]
+	}
+}
